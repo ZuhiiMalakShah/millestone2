@@ -22,7 +22,7 @@ export default function About() {
    <div className="text-box">
       <h1>ABOUT PAGE</h1>
         
-      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto voluptate assumenda error aliquid omnis tenetur voluptatem itaque, facere praesentium et dicta vel dolor repudiandae consequatur magnam quas? Sapiente, modi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem tempora dolorum quidem veniam sapiente, aspernatur temporibus eaque quod eligendi, maxime minima maiores ad? Reprehenderit nostrum fugit temporibus suscipit, molestiae deleniti ipsum, culpa, sequi odit voluptas porro animi? Et omnis, dolor earum ex, consequatur eum animi accusantium explicabo ipsum reprehenderit expedita..</p>
+      <p>Project made by Aliya Manzoor..</p>
      </div>
 </header>
    )}
