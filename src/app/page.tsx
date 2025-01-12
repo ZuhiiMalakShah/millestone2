@@ -21,8 +21,8 @@ export default function Home() {
    </nav>
    <div className="text-box">
       <h1>HELLO EVERYONE </h1>
-         <h2>This is me Azra Talib <br /> MY WEBSITE</h2>
-      <p>I am doing web developer course in this I have learned <br /> HTML, CSS & javascript very well and I am also good at typescript .</p>
+         <h2>This is me Aliya Manzoor <br /> MY WEBSITE</h2>
+      <p>I am doing course in Governor Sindh Initiative for Artificial Intelligence, Web 3.0 & Metaverse <br /> HTML, CSS , Nextjs, & javascript very well and I am also good at typescript .</p>
     <div className='imagee'>
       <Image 
         src={myImage} 
